@@ -1,0 +1,5 @@
+.mobile-menu-button:focus + .mobile-menu,
+.mobile-menu-button:active + .mobile-menu,
+.mobile-menu:hover {
+  display: block;
+}
